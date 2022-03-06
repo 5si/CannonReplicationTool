@@ -1,0 +1,6 @@
+name: CannonSim
+version: 1.0
+author: 5si
+main: com.github._5si.plugins.cannonreplication.Main
+commands:
+  cannonshot:
